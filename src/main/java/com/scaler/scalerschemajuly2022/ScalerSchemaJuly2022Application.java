@@ -11,3 +11,11 @@ public class ScalerSchemaJuly2022Application {
     }
 
 }
+
+// how to code the classes
+// MVC
+//  M: Model : Entity in my system
+//                  - Persisted in the DB
+
+// Hibernate ORM (Object Relational Mapping)
+// It will automatically create SQL queries for you
